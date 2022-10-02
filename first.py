@@ -3,6 +3,7 @@ print(lst0)
 print("hi")
 x = 5
 print("i like {}".format("apples"))
+print(f"hi, your number is {x}")
 mydict = {"a": 2, "b": 3, "c": 4}
 for key,val in mydict.items():
     print(val)
@@ -20,3 +21,10 @@ lst1 = [1,2,3]
 lst2 = ['a','b','c']
 lst_match = list(zip(lst1,lst2))
 print(47/182)
+def myfunc(*nums):
+    print(nums)
+myfunc(4,6,8,9)
+a = "hello idan mamy"
+a.split()
+print(a)
+blackjack!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
