@@ -27,4 +27,3 @@ myfunc(4,6,8,9)
 a = "hello idan mamy"
 a.split()
 print(a)
-blackjack!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
